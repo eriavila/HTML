@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin:0;
+    padding:0;
+    background-color:#FBFCFC;
+}
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+    background-color: #bab3f4;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.815);
+    padding: 20px;
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.dev{
+    text-align: center;
+    color: #272727;
+}
+
+
+
+
+
+
